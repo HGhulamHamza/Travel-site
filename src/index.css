@@ -1,0 +1,67 @@
+/* Reset & Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Make body and html full width */
+html, body {
+  width: 100%;
+  min-height: 100%;
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff;
+  color: #333;
+}
+
+/* Ensure root containers span full width */
+#root, .App {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Utility class for full-width sections */
+.full-width {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Consistent section layout */
+section {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+/* ✅ Prevent horizontal scrolling everywhere */
+html, body {
+  overflow-x: hidden;
+}
+
+/* ✅ Ensure all elements stay inside viewport */
+* {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+/* ✅ Handle special cases (like framer-motion or transitions adding overflow) */
+body > * {
+  overflow-x: hidden;
+}
+
+/* ✅ Remove unwanted scroll from sections or divs */
+section, div, header, footer {
+  max-width: 100%;
+  /* overflow-x: hidden; */
+}
+
+/* ✅ Optional: if using animations or transforms that cause overflow */
+img, video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
