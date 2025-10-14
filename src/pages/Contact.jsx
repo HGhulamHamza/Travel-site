@@ -445,7 +445,7 @@ const Contact = () => {
           marginTop: "50px",
         }}
       >
-        © Copyright 2025 Explore Pakistan Adventure.
+        © Copyright 2025 Explore Pakistan Adventure. Made by Nuvayra
       </footer>
     </div>
   );
