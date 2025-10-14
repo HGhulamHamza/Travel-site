@@ -224,7 +224,7 @@ const Hero = () => {
       <section className="hero">
         {/* Background video */}
         <video
-          src="/public/19803831-uhd_3840_2160_25fps.mp4"
+          src="/19803831-uhd_3840_2160_25fps.mp4"
           autoPlay
           loop
           muted
