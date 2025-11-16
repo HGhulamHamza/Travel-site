@@ -52,7 +52,7 @@ const About = () => {
         style={{
           background: `
             linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
-            url("https://explorepakistanadventure.com/wp-content/uploads/2025/04/Attabad-1-2-2048x1365.jpg")
+            url("\Contact.jpg")
             center/cover no-repeat`,
           textAlign: "center",
           padding: "160px 20px",

@@ -99,7 +99,7 @@ const AttabadLake = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <img src="https://explorepakistanadventure.com/wp-content/uploads/2025/04/Hunza-Attabad-Naltar-990x490.jpg" alt="Attabad Lake" />
+          <img src="\H.jpg" alt="Attabad Lake" />
           <div className="trip-content">
             <h2>Attabad Lake Adventure</h2>
             <div className="trip-info">
