@@ -309,7 +309,7 @@ body, html {
           <div className="logo">
             <Link to="/">
               <img
-                src="https://explorepakistanadventure.com/wp-content/uploads/2025/04/Logo.png"
+                src="public\Logo.png"
                 alt="Explore Pakistan Adventure"
               />
             </Link>
