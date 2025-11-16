@@ -22,7 +22,7 @@ const Trips = () => {
           width: 100%;
           height: 45vh;
           background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-            url('https://explorepakistanadventure.com/wp-content/uploads/2025/04/Hunza-Attabad-Naltar-990x490.jpg') center/cover no-repeat;
+            url('\H.jpg') center/cover no-repeat;
           display: flex;
           align-items: center;
           justify-content: center;
@@ -180,7 +180,7 @@ const Trips = () => {
           >
             <div className="trip-image">
               <img
-                src="https://explorepakistanadventure.com/wp-content/uploads/2025/04/Hunza-Attabad-Naltar-990x490.jpg"
+                src="\H.jpg"
                 alt="Hunza Attabad Naltar"
               />
             </div>
