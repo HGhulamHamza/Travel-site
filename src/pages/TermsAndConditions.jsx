@@ -17,7 +17,7 @@ export default function TermsAndConditions() {
       width: "100%",
       height: "300px",
       backgroundImage:
-        "url('https://explorepakistanadventure.com/wp-content/uploads/2025/04/Hunza-Attabad-Naltar-990x490.jpg')",
+        "url('\H.jpg')",
       backgroundSize: "cover",
       backgroundPosition: "center",
       display: "flex",
@@ -204,7 +204,7 @@ export default function TermsAndConditions() {
           >
             <img
               style={styles.cardImage}
-              src="\H.jpg"
+              src="https://explorepakistanadventure.com/wp-content/uploads/2025/04/Hunza-Attabad-Naltar-990x4.jpg"
               alt="Hunza Attabad Naltar"
             />
             <div style={styles.cardContent}>

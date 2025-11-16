@@ -152,7 +152,7 @@ const Contact = () => {
       <section
         className="contact-hero"
         style={{
-          background: `linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("\H.jpg") center/cover no-repeat`,
+          background: `linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("\Contact.jpg") center/cover no-repeat`,
           padding: "120px 20px",
           textAlign: "center",
           color: "#fff",
