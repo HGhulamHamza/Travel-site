@@ -309,7 +309,7 @@ body, html {
           <div className="logo">
             <Link to="/">
               <img
-                src="public\Logo.png"
+                src="\Logo.png"
                 alt="Explore Pakistan Adventure"
               />
             </Link>
